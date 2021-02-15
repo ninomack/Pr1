@@ -11,6 +11,19 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ТестоваяОбработка.Form.Форма</defaultForm>
+  <attributes uuid="864138f4-e435-4052-b7a0-840c1308c28d">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
   <forms uuid="01ee4ccf-6bbe-437d-a51e-0f753b9e2d68">
     <name>Форма</name>
     <synonym>
