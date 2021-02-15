@@ -30,4 +30,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <dataProcessors>DataProcessor.ТестоваяОбработка2</dataProcessors>
 </mdclass:Configuration>
