@@ -30,6 +30,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <dataProcessors>DataProcessor.ТестоваяОбработка</dataProcessors>
   <dataProcessors>DataProcessor.ТестоваяОбработка2</dataProcessors>
 </mdclass:Configuration>
